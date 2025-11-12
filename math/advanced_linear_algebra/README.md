@@ -1,1 +1,2 @@
-Advanced linear algebra project
+Advanced linear algebra
+ 
